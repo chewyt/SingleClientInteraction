@@ -54,7 +54,8 @@
             <configuration>
 	            <archive>
 		            <manifest>
-			            <mainClass>chewyt.Client</mainClass>
+			            <mainClass>chewyt.Server</mainClass>
+                  <mainClass>chewyt.Client</mainClass>
 		            </manifest>
 	            </archive>
             </configuration>  
