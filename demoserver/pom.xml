@@ -60,7 +60,7 @@
             <configuration>
 	            <archive>
 		            <manifest>
-			            <mainClass>chewyt.Main</mainClass>
+			            <mainClass>chewyt.Server</mainClass>
 		            </manifest>
 	            </archive>
             </configuration> 
